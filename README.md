@@ -1,3 +1,3 @@
 # minesweeper_go
-minesweeper_go
-# これはpic_basicで何かゲームを作れと言われたので、pic_basicでも作れるようにとりあえずアイデアだけまとめるようのリポジトリ
+minesweeper_go  
+**これはpic_basicで何かゲームを作れと言われたので、pic_basicでも作れるようにとりあえずアイデアだけまとめるようのリポジトリでできるだけpic_basicでも書けるようにしてある**
